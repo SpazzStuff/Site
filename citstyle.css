@@ -1,0 +1,17 @@
+body {
+  background-color: rgb(204, 255, 255);
+  width: 600px;
+  margin: auto;
+  font-family: 'Neucha', cursive;
+}
+a {
+  color: rgb(54, 105, 105);
+}
+a:hover {
+  color: rgb(4, 55, 55);
+}
+.header {
+  background-color: rgb(104,155,155);
+  text-align: center;
+  padding: 10px;
+}

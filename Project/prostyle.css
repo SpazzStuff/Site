@@ -1,0 +1,28 @@
+body {
+  background-image: url("projbackground.jpg");
+  background-attachment: fixed;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0px;
+}
+li {
+  float: left;
+  background-color: #dddddd;
+}
+li a {
+  display: block;
+  padding: 14px 18px;
+  text-decoration: none;
+  text-align: center;
+}
+li a:hover:not(.active) {
+  background-color: #111;
+}
+.active {     /*This Doesnt Work*/
+  background-color: rgb(250,250,250);
+}

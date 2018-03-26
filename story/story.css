@@ -1,0 +1,35 @@
+table {
+  margin: auto;
+}
+td  {
+  text-align: center;
+  font-size: 25px;
+}
+#link {
+  text-align: center;
+  width: 100%;
+}
+h1  {
+  text-align: center;
+  height: 120px;
+  margin-top: 80px;
+}
+#chooseaskill {
+  height: auto;
+  margin-top: 20px;
+  margin-bottom: 15px;
+}
+a:visited, a:link {
+  background-color: lightblue;
+  color: white;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+a:hover {
+  background-color: blue;
+}
+a:active  {
+  background-color: darkblue;
+}

@@ -1,34 +1,28 @@
-body {
-  background-color: rgb(235,255,186);
+body  {
+  background-color: #f2f7ff;
 }
-h1 {
-  color: rgb(0,71,96);
-  text-align: center;
-  text-decoration: underline;
-  text-shadow: 2px 1px rgba(0,71,96,.5)
+.border-mine  {
+  border: 1px solid #355b99;
 }
-table, th, td {
-  border: 1px solid black;
+.border-mine-nav  {
+  border: 1px solid #355b99;
+  border-top: none;
 }
-table {
-  border-collapse: collapse;
-  width: 100%;
+.text-mine  {
+  color: #224070;
 }
-th {
-  height: 40px;
-  background-color: rgb(0,71,96);
-  color: white;
+.btn-mine {
+  color: #f2f7ff;
+  background-color: #355b99;
+  border: 1px solid #355b99;
 }
-td {
-  height: 30px;
-  text-align: center;
+.btn-mine:hover {
+  background-color: #224070;
+  border: 1px solid #224070;
 }
-tr:nth-child(odd) {
-  background-color: rgb(220, 242, 164);
+.nav-link {
+  color: #224070;
 }
-a {
-  color: rgb(0,71,96);
-}
-a:hover {
-  color: rgba(0,71,96,.75);
+.nav-link:active {
+  color: #355b99;
 }

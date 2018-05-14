@@ -21,8 +21,8 @@ body  {
   border: 1px solid #224070;
 }
 .nav-link {
-  color: #224070;
+  color: #355b99;
 }
 .nav-link:active {
-  color: #355b99;
+  color: #224070;
 }

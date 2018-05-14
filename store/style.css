@@ -1,0 +1,41 @@
+body  {
+  background-color: rgb(181, 255, 255);
+}
+.darkmaroon {
+  color:  rgb(1, 73, 73);
+}
+.darkmaroon:hover  {
+  color: rgb(0, 33, 33);
+}
+.card-text-title  {
+  text-align: center;
+  font-weight: bold;
+}
+.card-text-title:hover, .card-text-title:active {
+  color: rgb(0, 33, 33);
+}
+.card-body  {
+  text-align: center;
+}
+.card-text, .form-group  {
+  color:  rgb(1, 73, 73);
+}
+.border-cards {
+  border: 2px solid rgb(1, 73, 73);
+}
+.btn-mine {
+  background-color: rgb(114, 193, 193);
+  color: white;
+}
+.btn-mine:hover, .btn-mine:active  {
+  background-color: rgb(70, 130, 130);
+  color: white;
+}
+#itemname {
+  text-align: center;
+  color:  rgb(1, 73, 73);
+}
+.dropdown-item:active  {
+  background-color: rgb(114, 193, 193);
+  color: rgb(1, 73, 73);
+}
